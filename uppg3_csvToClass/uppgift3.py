@@ -2,8 +2,8 @@
 # Din klass
 # Datum
 
-# Skapa en klass från en csv fil
-# Skriv ett program som läser in från en .csv fil och skapar en klass med hjälp av datan
+# Skapa en skolklass från en csv fil
+# Skriv ett program som läser in från en .csv fil och skapar en skolklass med hjälp av datan
 # Vilka hjälp-funktioner behövs?
 # Din kod nedan.
 

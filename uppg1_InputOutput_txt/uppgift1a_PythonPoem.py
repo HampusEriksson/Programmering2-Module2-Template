@@ -9,4 +9,3 @@
 filePath = "Programmering2-Module2-Template/uppg1_InputOutput_txt/PythonPoem.txt"
 
 
-print()
